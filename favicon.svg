@@ -1,0 +1,7 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="200" y="200" width="624" height="624" rx="64" fill="black"/>
+
+  <!-- Triangle (pointing down) -->
+  <polygon points="512,700 320,380 704,380" fill="white"/>
+</svg>
